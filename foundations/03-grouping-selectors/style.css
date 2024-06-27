@@ -1,14 +1,15 @@
-.buttons {
+.first,
+.second {
     font-size: 28px;
     font-family: Helvetica, sans-serif, "Times New Roman";
 }
 
-#first {
+.first {
     background-color: #000000;
     color: #FFF;
     font-weight: bold;
 }
 
-#second {
+.second {
     background-color: yellow;
 }
